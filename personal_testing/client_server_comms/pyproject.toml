@@ -1,0 +1,10 @@
+[project]
+name = "client-server-comms"
+version = "0.1.0"
+description = "Basic client-server communication"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "flask>=3.1.1",
+    "requests>=2.32.4",
+]
