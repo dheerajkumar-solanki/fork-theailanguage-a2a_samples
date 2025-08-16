@@ -1,0 +1,11 @@
+[project]
+name = "version_1_simple"
+version = "0.1.0"
+description = "Simple A2A Protocol Demo"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "flask>=2.0.0",
+    "requests>=2.28.0"
+]
+
